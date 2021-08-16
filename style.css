@@ -1,0 +1,67 @@
+html {
+  font-family: 'Manrope', sans-serif;
+  background-color: hsl(210, 46%, 95%);
+}
+
+body {
+  box-sizing: border-box;
+}
+
+
+/* ================================= ARTICLE ========================== */
+
+.article {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 1100px;
+  height: 400px;
+  background-color: white;
+  border-radius: 1em;
+  margin: 30em auto;
+}
+
+.drawers {
+height: 400px;
+border-radius: 1em 0 0 1em;
+width: 410px;
+object-fit: cover;
+object-position: 0% 10%;
+}
+
+.avatar {
+  height: 50px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 1em;
+}
+
+/* ================================= ARTICLE ========================== */
+
+/* ================================= TEXT ========================== */
+
+.text {
+  width: 550px;
+  padding-left: 3em;
+  padding-top: 2em;
+}
+
+.maintext {
+  font-weight: 700;
+}
+
+.paratext {
+  font-size: 1.2em;
+  color: hsl(214, 17%, 51%);
+}
+
+
+.name {
+  font-weight: 700;
+}
+
+.date {
+  color: hsl(214, 17%, 51%);
+}
+
+/* ================================= TEXT ========================== */
