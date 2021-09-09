@@ -13,7 +13,7 @@ body {
 .article {
   display: flex;
   flex-wrap: wrap;
-  height: 400px;
+  height: 380px;
   justify-content: center;
   margin-top: 10em;
 }
@@ -30,6 +30,7 @@ body {
   border-radius: 1em 0 0 1em;
   overflow: hidden;
   margin-right: -5.5em;
+  height: 384px;
 }
 
 
@@ -46,7 +47,7 @@ body {
   padding-left: 4em;
   padding-right: 5em;
   display: inline-block;
-  height: 400px;
+  height: 360px;
 }
 
 .maintext {
