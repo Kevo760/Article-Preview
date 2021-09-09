@@ -15,6 +15,7 @@ body {
   flex-wrap: wrap;
   height: 400px;
   justify-content: center;
+  margin-top: 10em;
 }
 
 .avatar {
